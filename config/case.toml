@@ -1,0 +1,11 @@
+company = "Energizer Holdings, Inc."
+ticker = "ENR"
+cik = "0001632790"
+information_cutoff = "2025-11-30T23:59:59-05:00"
+close_date = "2025-12-31"
+exit_date = "2030-12-31"
+default_case = "base"
+currency = "USD"
+scale = 1000000
+interest_day_count = "ACT/360"
+xirr_day_count = "ACT/365"
