@@ -55,7 +55,7 @@ def audit_workbook(file: Path, root: Path = ROOT) -> dict:
         assumptions[name]['dso']=[v+float(values['Sensitivities']['D9']) for v in assumptions[name]['dso']]
     model=run_model(h,assumptions,case)
     m=json.loads((root/'data/workbook_map.json').read_text())
-    pairs=[('Operating Case','operating',{'annual_battery':None,'annual_auto':None,'bm':None,'am':None,'fixed':None,'annual_cogs':None,'pretax':None}),
+    pairs: list[tuple[str, str, dict[str, str | None]]] = [('Operating Case','operating',{'annual_battery':None,'annual_auto':None,'bm':None,'am':None,'fixed':None,'annual_cogs':None,'pretax':None}),
            ('Debt Schedule','debt',{'gap':'liquidity_gap','sf':'senior_fees','jf':'junior_fees','rf':'revolver_fees','total_debt':'debt','pre_cash':None,'excess':None,'sf_begin':None,'sf_amort':None,'sf_writeoff':None,'jf_amort':None,'rf_amort':None}),
            ('Capex & DA','capital',{'old_ppe_begin':None,'old_ppe_end':None,'new_ppe_begin':None,'new_ppe_end':None,'step_ppe_begin':None,'step_ppe_end':None,'old_int_begin':None,'old_int_end':None,'step_int_end':None}),
            ('Working Capital','working',{'nwc':None,'opening':None,'delta':'delta_wc'}),
