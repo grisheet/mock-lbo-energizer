@@ -1,0 +1,10 @@
+{
+  "case": "base",
+  "numeric_comparisons": 1443,
+  "sensitivity_combinations": 95,
+  "max_absolute_difference": 2.7284841053187847e-12,
+  "native_data_tables": 5,
+  "unexpected_formula_errors": 0,
+  "accounting_checks": 103,
+  "historical_checks": 18
+}
