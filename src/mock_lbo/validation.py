@@ -96,7 +96,8 @@ def audit_workbook(file: Path, root: Path = ROOT) -> dict:
                 cc=case
                 if operating:
                     cc=['base','downside','upside'][ri]
-                else: aa['transaction']['entry_multiple']=float(values['Sensitivities'][f'D{row}'])
+                else:
+                    aa['transaction']['entry_multiple']=float(values['Sensitivities'][f'D{row}'])
                 rr=run_model(h,aa,cc)['returns']
                 compare('Sensitivities',f'{column(5+ci)}{row}',rr[metric])
                 sensitivity_count+=1
