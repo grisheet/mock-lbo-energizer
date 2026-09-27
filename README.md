@@ -4,6 +4,8 @@
 
 A linked Excel acquisition model backed by a separate Python calculation engine. It combines sourced historical financials, an estimated closing bridge, quarterly operating forecasts, acquisition accounting, a debt waterfall, dated sponsor returns and 95 sensitivity combinations.
 
+**Release validation:** [GitHub CI passed on September 27, 2026](https://github.com/grisheet/mock-lbo-energizer/actions/runs/36304638586): Ruff, mypy, all 31 tests, the saved-workbook audit and all three scenario checks. CI installs exact package versions and verifies artifact hashes from `uv.lock`.
+
 Information is frozen at **November 30, 2025, 23:59:59 America/New_York**. Hypothetical closing is December 31, 2025; exit is December 31, 2030. Later actual results are deliberately excluded. USD millions throughout unless labeled otherwise.
 
 ## Open the model
