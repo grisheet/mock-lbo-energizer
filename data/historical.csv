@@ -1,0 +1,188 @@
+field,label,fiscal_year,period_end,value,unit,source_id,location,definition
+revenue,Net sales,2025,2025-09-30,2952.7,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Net sales
+revenue,Net sales,2024,2024-09-30,2887.0,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Net sales
+revenue,Net sales,2023,2023-09-30,2959.7,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Net sales
+cogs,Cost of products sold,2025,2025-09-30,1720.0,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Cost of products sold
+cogs,Cost of products sold,2024,2024-09-30,1782.7,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Cost of products sold
+cogs,Cost of products sold,2023,2023-09-30,1835.7,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Cost of products sold
+gross_profit,Gross profit,2025,2025-09-30,1232.7,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Gross profit
+gross_profit,Gross profit,2024,2024-09-30,1104.3,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Gross profit
+gross_profit,Gross profit,2023,2023-09-30,1124.0,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Gross profit
+sga,"Selling, general and administrative expense",2025,2025-09-30,532.4,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,"Selling, general and administrative expense"
+sga,"Selling, general and administrative expense",2024,2024-09-30,526.3,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,"Selling, general and administrative expense"
+sga,"Selling, general and administrative expense",2023,2023-09-30,489.4,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,"Selling, general and administrative expense"
+advertising,Advertising and sales promotion expense,2025,2025-09-30,151.7,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Advertising and sales promotion expense
+advertising,Advertising and sales promotion expense,2024,2024-09-30,143.7,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Advertising and sales promotion expense
+advertising,Advertising and sales promotion expense,2023,2023-09-30,142.3,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Advertising and sales promotion expense
+rd,Research and development expense,2025,2025-09-30,32.6,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Research and development expense
+rd,Research and development expense,2024,2024-09-30,31.6,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Research and development expense
+rd,Research and development expense,2023,2023-09-30,32.9,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Research and development expense
+amortization,Amortization of intangible assets,2025,2025-09-30,58.7,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Amortization of intangible assets
+amortization,Amortization of intangible assets,2024,2024-09-30,58.2,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Amortization of intangible assets
+amortization,Amortization of intangible assets,2023,2023-09-30,59.4,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Amortization of intangible assets
+impairment,Impairment of intangible assets,2025,2025-09-30,5.9,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Impairment of intangible assets
+impairment,Impairment of intangible assets,2024,2024-09-30,110.6,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Impairment of intangible assets
+impairment,Impairment of intangible assets,2023,2023-09-30,0.0,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Impairment of intangible assets
+interest,Interest expense,2025,2025-09-30,154.3,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Interest expense
+interest,Interest expense,2024,2024-09-30,155.7,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Interest expense
+interest,Interest expense,2023,2023-09-30,168.7,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Interest expense
+debt_extinguishment,Loss/(gain) on extinguishment/modification of debt,2025,2025-09-30,12.1,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Loss/(gain) on extinguishment/modification of debt
+debt_extinguishment,Loss/(gain) on extinguishment/modification of debt,2024,2024-09-30,2.4,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Loss/(gain) on extinguishment/modification of debt
+debt_extinguishment,Loss/(gain) on extinguishment/modification of debt,2023,2023-09-30,-1.5,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Loss/(gain) on extinguishment/modification of debt
+other_expense,"Other items, net",2025,2025-09-30,0.9,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,"Other items, net"
+other_expense,"Other items, net",2024,2024-09-30,22.0,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,"Other items, net"
+other_expense,"Other items, net",2023,2023-09-30,57.1,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,"Other items, net"
+pretax,Earnings before income taxes,2025,2025-09-30,284.1,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Earnings before income taxes
+pretax,Earnings before income taxes,2024,2024-09-30,53.8,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Earnings before income taxes
+pretax,Earnings before income taxes,2023,2023-09-30,175.7,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Earnings before income taxes
+tax,Income tax provision,2025,2025-09-30,45.1,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Income tax provision
+tax,Income tax provision,2024,2024-09-30,15.7,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Income tax provision
+tax,Income tax provision,2023,2023-09-30,35.2,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Income tax provision
+net_income,Net earnings,2025,2025-09-30,239.0,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Net earnings
+net_income,Net earnings,2024,2024-09-30,38.1,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Net earnings
+net_income,Net earnings,2023,2023-09-30,140.5,USD millions,ENR_2025_10K,p60; Consolidated Statements of Earnings,Net earnings
+cash,Cash and cash equivalents,2025,2025-09-30,236.2,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Cash and cash equivalents
+cash,Cash and cash equivalents,2024,2024-09-30,216.9,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Cash and cash equivalents
+ar,"Trade receivables, net",2025,2025-09-30,404.2,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,"Trade receivables, net"
+ar,"Trade receivables, net",2024,2024-09-30,441.3,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,"Trade receivables, net"
+inventory,Inventories,2025,2025-09-30,781.2,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Inventories
+inventory,Inventories,2024,2024-09-30,657.3,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Inventories
+other_current_assets,Other current assets,2025,2025-09-30,257.5,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Other current assets
+other_current_assets,Other current assets,2024,2024-09-30,163.4,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Other current assets
+current_assets,Total current assets,2025,2025-09-30,1679.1,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Total current assets
+current_assets,Total current assets,2024,2024-09-30,1478.9,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Total current assets
+ppe,"Property, plant and equipment, net",2025,2025-09-30,403.0,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,"Property, plant and equipment, net"
+ppe,"Property, plant and equipment, net",2024,2024-09-30,380.1,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,"Property, plant and equipment, net"
+rou,Operating lease assets,2025,2025-09-30,93.2,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Operating lease assets
+rou,Operating lease assets,2024,2024-09-30,94.7,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Operating lease assets
+goodwill,Goodwill,2025,2025-09-30,1051.2,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Goodwill
+goodwill,Goodwill,2024,2024-09-30,1046.0,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Goodwill
+intangibles,"Other intangible assets, net",2025,2025-09-30,1005.5,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,"Other intangible assets, net"
+intangibles,"Other intangible assets, net",2024,2024-09-30,1070.9,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,"Other intangible assets, net"
+dta,Deferred tax asset,2025,2025-09-30,166.6,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Deferred tax asset
+dta,Deferred tax asset,2024,2024-09-30,145.8,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Deferred tax asset
+other_assets,Other assets,2025,2025-09-30,158.1,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Other assets
+other_assets,Other assets,2024,2024-09-30,126.0,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Other assets
+assets,Total assets,2025,2025-09-30,4556.7,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Total assets
+assets,Total assets,2024,2024-09-30,4342.4,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Total assets
+current_debt,Current maturities of long-term debt,2025,2025-09-30,8.6,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Current maturities of long-term debt
+current_debt,Current maturities of long-term debt,2024,2024-09-30,12.0,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Current maturities of long-term debt
+current_finance_lease,Current portion of finance leases,2025,2025-09-30,1.5,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Current portion of finance leases
+current_finance_lease,Current portion of finance leases,2024,2024-09-30,0.6,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Current portion of finance leases
+notes,Notes payable,2025,2025-09-30,13.7,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Notes payable
+notes,Notes payable,2024,2024-09-30,2.1,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Notes payable
+ap,Accounts payable,2025,2025-09-30,402.2,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Accounts payable
+ap,Accounts payable,2024,2024-09-30,433.1,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Accounts payable
+current_operating_lease,Current operating lease liabilities,2025,2025-09-30,16.2,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Current operating lease liabilities
+current_operating_lease,Current operating lease liabilities,2024,2024-09-30,18.2,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Current operating lease liabilities
+other_current_liabilities,Other current liabilities,2025,2025-09-30,352.8,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Other current liabilities
+other_current_liabilities,Other current liabilities,2024,2024-09-30,353.8,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Other current liabilities
+current_liabilities,Total current liabilities,2025,2025-09-30,795.0,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Total current liabilities
+current_liabilities,Total current liabilities,2024,2024-09-30,819.8,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Total current liabilities
+long_debt,Long-term debt,2025,2025-09-30,3407.9,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Long-term debt
+long_debt,Long-term debt,2024,2024-09-30,3193.0,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Long-term debt
+operating_lease,Operating lease liabilities,2025,2025-09-30,84.8,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Operating lease liabilities
+operating_lease,Operating lease liabilities,2024,2024-09-30,82.4,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Operating lease liabilities
+dtl,Deferred tax liability,2025,2025-09-30,6.1,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Deferred tax liability
+dtl,Deferred tax liability,2024,2024-09-30,8.3,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Deferred tax liability
+other_liabilities,Other liabilities,2025,2025-09-30,93.0,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Other liabilities
+other_liabilities,Other liabilities,2024,2024-09-30,103.1,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Other liabilities
+liabilities,Total liabilities,2025,2025-09-30,4386.8,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Total liabilities
+liabilities,Total liabilities,2024,2024-09-30,4206.6,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Total liabilities
+equity,Total shareholders' equity,2025,2025-09-30,169.9,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Total shareholders' equity
+equity,Total shareholders' equity,2024,2024-09-30,135.8,USD millions,ENR_2025_10K,p61; Consolidated Balance Sheets,Total shareholders' equity
+cash,Cash and cash equivalents,2023,2023-09-30,223.3,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Cash and cash equivalents
+ar,"Trade receivables, net",2023,2023-09-30,511.6,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,"Trade receivables, net"
+inventory,Inventories,2023,2023-09-30,649.7,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Inventories
+other_current_assets,Other current assets,2023,2023-09-30,172.0,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Other current assets
+current_assets,Total current assets,2023,2023-09-30,1556.6,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Total current assets
+ppe,"Property, plant and equipment, net",2023,2023-09-30,363.7,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,"Property, plant and equipment, net"
+rou,Operating lease assets,2023,2023-09-30,98.4,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Operating lease assets
+goodwill,Goodwill,2023,2023-09-30,1016.2,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Goodwill
+intangibles,"Other intangible assets, net",2023,2023-09-30,1237.7,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,"Other intangible assets, net"
+dta,Deferred tax asset,2023,2023-09-30,88.4,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Deferred tax asset
+other_assets,Other assets,2023,2023-09-30,148.6,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Other assets
+assets,Total assets,2023,2023-09-30,4509.6,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Total assets
+current_debt,Current maturities of long-term debt,2023,2023-09-30,12.0,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Current maturities of long-term debt
+current_finance_lease,Current portion of finance leases,2023,2023-09-30,0.3,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Current portion of finance leases
+notes,Notes payable,2023,2023-09-30,8.2,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Notes payable
+ap,Accounts payable,2023,2023-09-30,370.8,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Accounts payable
+current_operating_lease,Current operating lease liabilities,2023,2023-09-30,17.3,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Current operating lease liabilities
+other_current_liabilities,Other current liabilities,2023,2023-09-30,325.6,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Other current liabilities
+current_liabilities,Total current liabilities,2023,2023-09-30,734.2,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Total current liabilities
+long_debt,Long-term debt,2023,2023-09-30,3332.1,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Long-term debt
+operating_lease,Operating lease liabilities,2023,2023-09-30,84.7,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Operating lease liabilities
+dtl,Deferred tax liability,2023,2023-09-30,12.4,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Deferred tax liability
+other_liabilities,Other liabilities,2023,2023-09-30,135.5,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Other liabilities
+liabilities,Total liabilities,2023,2023-09-30,4298.9,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Total liabilities
+equity,Total shareholders' equity,2023,2023-09-30,210.7,USD millions,ENR_2024_10K,p61; Consolidated Balance Sheets,Total shareholders' equity
+da,Depreciation and amortization,2025,2025-09-30,126.7,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Depreciation and amortization
+da,Depreciation and amortization,2024,2024-09-30,120.5,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Depreciation and amortization
+da,Depreciation and amortization,2023,2023-09-30,122.7,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Depreciation and amortization
+sbc,Share based compensation expense,2025,2025-09-30,25.6,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Share based compensation expense
+sbc,Share based compensation expense,2024,2024-09-30,23.1,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Share based compensation expense
+sbc,Share based compensation expense,2023,2023-09-30,21.8,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Share based compensation expense
+cfo,Net cash from operating activities,2025,2025-09-30,147.1,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Net cash from operating activities
+cfo,Net cash from operating activities,2024,2024-09-30,429.6,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Net cash from operating activities
+cfo,Net cash from operating activities,2023,2023-09-30,395.2,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Net cash from operating activities
+capex_signed,Capital expenditures,2025,2025-09-30,-83.9,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Capital expenditures
+capex_signed,Capital expenditures,2024,2024-09-30,-97.9,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Capital expenditures
+capex_signed,Capital expenditures,2023,2023-09-30,-56.8,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Capital expenditures
+cfi,Net cash used by investing activities,2025,2025-09-30,-98.2,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Net cash used by investing activities
+cfi,Net cash used by investing activities,2024,2024-09-30,-114.0,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Net cash used by investing activities
+cfi,Net cash used by investing activities,2023,2023-09-30,-56.1,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Net cash used by investing activities
+cff,Net used by financing activities,2025,2025-09-30,-29.1,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Net used by financing activities
+cff,Net used by financing activities,2024,2024-09-30,-300.3,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Net used by financing activities
+cff,Net used by financing activities,2023,2023-09-30,-309.4,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Net used by financing activities
+fx_cash,Effect of exchange rate changes on cash,2025,2025-09-30,-0.5,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Effect of exchange rate changes on cash
+fx_cash,Effect of exchange rate changes on cash,2024,2024-09-30,-21.7,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Effect of exchange rate changes on cash
+fx_cash,Effect of exchange rate changes on cash,2023,2023-09-30,-11.7,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,Effect of exchange rate changes on cash
+cash_change,"Net increase/(decrease) in cash, cash equivalents, and restricted cash",2025,2025-09-30,19.3,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,"Net increase/(decrease) in cash, cash equivalents, and restricted cash"
+cash_change,"Net increase/(decrease) in cash, cash equivalents, and restricted cash",2024,2024-09-30,-6.4,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,"Net increase/(decrease) in cash, cash equivalents, and restricted cash"
+cash_change,"Net increase/(decrease) in cash, cash equivalents, and restricted cash",2023,2023-09-30,18.0,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,"Net increase/(decrease) in cash, cash equivalents, and restricted cash"
+cash_begin,"Cash, cash equivalents, and restricted cash, beginning of period",2025,2025-09-30,216.9,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,"Cash, cash equivalents, and restricted cash, beginning of period"
+cash_begin,"Cash, cash equivalents, and restricted cash, beginning of period",2024,2024-09-30,223.3,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,"Cash, cash equivalents, and restricted cash, beginning of period"
+cash_begin,"Cash, cash equivalents, and restricted cash, beginning of period",2023,2023-09-30,205.3,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,"Cash, cash equivalents, and restricted cash, beginning of period"
+cash_end,"Cash, cash equivalents, and restricted cash, end of period",2025,2025-09-30,236.2,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,"Cash, cash equivalents, and restricted cash, end of period"
+cash_end,"Cash, cash equivalents, and restricted cash, end of period",2024,2024-09-30,216.9,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,"Cash, cash equivalents, and restricted cash, end of period"
+cash_end,"Cash, cash equivalents, and restricted cash, end of period",2023,2023-09-30,223.3,USD millions,ENR_2025_10K,p62; Consolidated Statements of Cash Flows,"Cash, cash equivalents, and restricted cash, end of period"
+battery_sales,Batteries & Lights net sales,2025,2025-09-30,2332.7,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Batteries & Lights net sales
+battery_sales,Batteries & Lights net sales,2024,2024-09-30,2259.5,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Batteries & Lights net sales
+battery_sales,Batteries & Lights net sales,2023,2023-09-30,2344.9,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Batteries & Lights net sales
+auto_sales,Auto Care net sales,2025,2025-09-30,620,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Auto Care net sales
+auto_sales,Auto Care net sales,2024,2024-09-30,627.5,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Auto Care net sales
+auto_sales,Auto Care net sales,2023,2023-09-30,614.8,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Auto Care net sales
+battery_cost,Batteries & Lights segment cost of products sold,2025,2025-09-30,1356.8,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Batteries & Lights segment cost of products sold
+battery_cost,Batteries & Lights segment cost of products sold,2024,2024-09-30,1295.1,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Batteries & Lights segment cost of products sold
+battery_cost,Batteries & Lights segment cost of products sold,2023,2023-09-30,1383,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Batteries & Lights segment cost of products sold
+auto_cost,Auto Care segment cost of products sold,2025,2025-09-30,387.2,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Auto Care segment cost of products sold
+auto_cost,Auto Care segment cost of products sold,2024,2024-09-30,409.9,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Auto Care segment cost of products sold
+auto_cost,Auto Care segment cost of products sold,2023,2023-09-30,422.8,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Auto Care segment cost of products sold
+battery_dep,Batteries & Lights depreciation,2025,2025-09-30,54.9,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Batteries & Lights depreciation
+battery_dep,Batteries & Lights depreciation,2024,2024-09-30,50.3,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Batteries & Lights depreciation
+battery_dep,Batteries & Lights depreciation,2023,2023-09-30,52.2,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Batteries & Lights depreciation
+auto_dep,Auto Care depreciation,2025,2025-09-30,13.1,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Auto Care depreciation
+auto_dep,Auto Care depreciation,2024,2024-09-30,12,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Auto Care depreciation
+auto_dep,Auto Care depreciation,2023,2023-09-30,11.1,USD millions,ENR_2025_10K,Note 7; Segment Results / Capital Expenditures and D&A,Auto Care depreciation
+financial_debt_face,Financial debt principal excluding leases,2025,2025-09-30,3395.6,USD millions,ENR_2025_10K,Notes 12 and 13; debt table and pension funded status,Financial debt principal excluding leases
+finance_lease,Finance lease obligations,2025,2025-09-30,50.3,USD millions,ENR_2025_10K,Notes 12 and 13; debt table and pension funded status,Finance lease obligations
+old_finance_fees,Unamortized debt discount and issuance fees,2025,2025-09-30,27.9,USD millions,ENR_2025_10K,Notes 12 and 13; debt table and pension funded status,Unamortized debt discount and issuance fees
+pension_deficit,Combined US and international pension deficit,2025,2025-09-30,38.8,USD millions,ENR_2025_10K,Notes 12 and 13; debt table and pension funded status,Combined US and international pension deficit
+management_ebitda,Management adjusted EBITDA,2025,2025-09-30,623.6,USD millions,ENR_2025_RELEASE,Supplemental schedules: Non-GAAP reconciliations / gross margin,Management adjusted EBITDA
+issuer_ebitda,Issuer EBITDA before adjustments,2025,2025-09-30,577.2,USD millions,ENR_2025_RELEASE,Supplemental schedules: Non-GAAP reconciliations / gross margin,Issuer EBITDA before adjustments
+restructuring,Restructuring and related costs,2025,2025-09-30,68.7,USD millions,ENR_2025_RELEASE,Supplemental schedules: Non-GAAP reconciliations / gross margin,Restructuring and related costs
+network,Network transition costs,2025,2025-09-30,19.7,USD millions,ENR_2025_RELEASE,Supplemental schedules: Non-GAAP reconciliations / gross margin,Network transition costs
+integration,Acquisition and integration costs,2025,2025-09-30,6.2,USD millions,ENR_2025_RELEASE,Supplemental schedules: Non-GAAP reconciliations / gross margin,Acquisition and integration costs
+prior_credits,FY23 and FY24 production credits,2025,2025-09-30,78.0,USD millions,ENR_2025_RELEASE,Supplemental schedules: Non-GAAP reconciliations / gross margin,FY23 and FY24 production credits
+litigation_benefit,Litigation benefit,2025,2025-09-30,1.7,USD millions,ENR_2025_RELEASE,Supplemental schedules: Non-GAAP reconciliations / gross margin,Litigation benefit
+current_credits,FY25 production credits,2025,2025-09-30,42.9,USD millions,ENR_2025_10K,MD&A production credits; Note 6,Derived: total production credits recognized 120.9 less FY2023/FY2024 credits 78.0 = FY2025 credits 42.9
+adjusted_sga,Adjusted SG&A,2025,2025-09-30,495.5,USD millions,ENR_2025_RELEASE,Supplemental schedules: Non-GAAP reconciliations / gross margin,Adjusted SG&A
+adjusted_other_income,Adjusted other income,2025,2025-09-30,1.1,USD millions,ENR_2025_RELEASE,Supplemental schedules: Non-GAAP reconciliations / gross margin,Adjusted other income
+battery_fq1,Battery FY2025 fiscal Q1 net sales,2025,2024-12-31,632.4,USD millions,ENR_2025_RELEASE,Supplemental schedules: Segment Sales; FY2025 quarters,Battery FY2025 fiscal Q1 net sales; standalone three-month revenue
+battery_fq2,Battery FY2025 fiscal Q2 net sales,2025,2025-03-31,488,USD millions,ENR_2025_RELEASE,Supplemental schedules: Segment Sales; FY2025 quarters,Battery FY2025 fiscal Q2 net sales; standalone three-month revenue
+battery_fq3,Battery FY2025 fiscal Q3 net sales,2025,2025-06-30,535.1,USD millions,ENR_2025_RELEASE,Supplemental schedules: Segment Sales; FY2025 quarters,Battery FY2025 fiscal Q3 net sales; standalone three-month revenue
+battery_fq4,Battery FY2025 fiscal Q4 net sales,2025,2025-09-30,677.2,USD millions,ENR_2025_RELEASE,Supplemental schedules: Segment Sales; FY2025 quarters,Battery FY2025 fiscal Q4 net sales; standalone three-month revenue
+auto_fq1,Auto FY2025 fiscal Q1 net sales,2025,2024-12-31,99.3,USD millions,ENR_2025_RELEASE,Supplemental schedules: Segment Sales; FY2025 quarters,Auto FY2025 fiscal Q1 net sales; standalone three-month revenue
+auto_fq2,Auto FY2025 fiscal Q2 net sales,2025,2025-03-31,174.9,USD millions,ENR_2025_RELEASE,Supplemental schedules: Segment Sales; FY2025 quarters,Auto FY2025 fiscal Q2 net sales; standalone three-month revenue
+auto_fq3,Auto FY2025 fiscal Q3 net sales,2025,2025-06-30,190.2,USD millions,ENR_2025_RELEASE,Supplemental schedules: Segment Sales; FY2025 quarters,Auto FY2025 fiscal Q3 net sales; standalone three-month revenue
+auto_fq4,Auto FY2025 fiscal Q4 net sales,2025,2025-09-30,155.6,USD millions,ENR_2025_RELEASE,Supplemental schedules: Segment Sales; FY2025 quarters,Auto FY2025 fiscal Q4 net sales; standalone three-month revenue
